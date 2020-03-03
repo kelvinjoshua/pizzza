@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url('../joint.jpg');
+    background-image: url('../images/joint.jpg');
     
     background-repeat: no-repeat;
     background-size: cover;
@@ -69,19 +69,19 @@ body::-webkit-scrollbar-thumb {
     background-position: center;
 }
 #Big-Mark.card-img-top{
-    background-image: url(../basil.jpg)
+    background-image: url(../images/basil.jpg)
 }
 #Cheese-Love .card-img-top{
-    background-image: url(../fetta.jpg)
+    background-image: url(../images/fetta.jpg)
 }
 #Pepperoni-Craze .card-img-top{
-    background-image: url(../cheese.jpg)
+    background-image: url(../images/cheese.jpg)
 }
 #Napoletana .card-img-top{
-    background-image: url(../ronni.jpg)
+    background-image: url(../images/ronni.jpg)
 }
 #Diavola .card-img-top{
-    background-image: url(../pizza.jpeg);
+    background-image: url(../images/pizza.jpeg);
 }
 #Frutti-D\'Mare .card-img-top{
     background-image: url(../banger.jpeg);
