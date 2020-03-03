@@ -14,7 +14,7 @@ HTML CSS javascript bootstrap
 internet connection
 
 ## Live Link
-https://kelvinjoshua.github.io/Delani_std/
+ https://kelvinjoshua.github.io/pizzza/
 
 ## Contact Details
 Email: kelvinbale78@gmail.com Phone-No:0758913185 Github: kelvinjoshua Copyright and Licence information MIT License Copyright(2020) kelvin joshua
